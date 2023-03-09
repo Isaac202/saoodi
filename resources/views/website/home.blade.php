@@ -77,6 +77,7 @@
             <div class="content mx-auto Doc-Cards">
                 <div class="d-flex w-100 describe justify-content-between flex-md-row flex-column">
                     <div class="consult">
+                        <input type="hidden" name=""> <!--Input de teste-->
                         <h2>{{ __('Consult from the Best Doctors') }}</h2>
                         <p>{{ __ ('Get in touch with the experts and specialist Doctors.') }}</p>
                     </div>
