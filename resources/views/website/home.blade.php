@@ -18,7 +18,7 @@
                     </div>
                 </div>
 
-                <div class="row row-cols-1 row-cols-lg-3 row-cols-sm-2 g-0 ">
+                <!-- <div class="row row-cols-1 row-cols-lg-3 row-cols-sm-2 g-0 ">
                     @foreach ($banners as $banner)
                         <a href="{{ $banner->link }}" target="_blank">
                             <div class="col">
@@ -30,7 +30,7 @@
                             </div>
                         </a>
                     @endforeach
-                </div>
+                </div> -->
             </div>
             <div class="content mx-auto my-3 our_doctor">
                 <div class="d-flex w-100 describe justify-content-between flex-sm-row flex-column py-3 align-items-sm-center">
@@ -134,7 +134,7 @@
                     @endforeach
                 </div>
             </div>
-        </div>
+        <!-- </div>
         <div class="contact-ban">
             <div class="Footer-ban h-100 mx-auto">
                 <div class="row g-4 h-100">
@@ -163,6 +163,6 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 @endsection
